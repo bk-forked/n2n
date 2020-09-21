@@ -1,6 +1,6 @@
 ## Readme
 
-[README](README_BAK.md) | [新手向导](http://www.lucktu.com/archives/783.html) | [n2n_v2](https://github.com/ntop/n2n)
+[README](README_BAK.md) | [新手向导](http://www.lucktu.com/archives/783.html) | [n2n_v2](https://github.com/bttb520/n2n)
 
 ## ChangeLog
 
